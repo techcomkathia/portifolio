@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+# Portfólio - Kathia Rocha Sá
 
-## How can I edit this code?
+Professora e desenvolvedora full stack com domínio em Node.js, React e arquiteturas modernas. Uno a experiência de sala de aula com a prática do desenvolvimento para criar soluções reais e formar novos profissionais de tecnologia.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Sobre este projeto
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Este repositório é o meu portifólio atual e pode servir como referência de estudo e inspiração para quem deseja aprender sobre desenvolvimento web moderno com React, TypeScript, Tailwind CSS e boas práticas de arquitetura. Fique à vontade para explorar o código, reutilizar trechos e adaptar ideias para seus próprios projetos!
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Como rodar o projeto localmente
 
-Follow these steps:
+Pré-requisitos:
+- Node.js 
+- npm ou yarn
+
+### Passos:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# 1. Clone o repositório
+git clone https://github.com/techcomkathia/portifolio.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 2. Acesse a pasta do projeto
+cd portifolio
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3. Instale as dependências
+npm install
+# ou
+yarn install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Inicie o servidor de desenvolvimento
 npm run dev
+# ou
+yarn dev
 ```
 
-**Edit a file directly in GitHub**
+O projeto estará disponível em `http://localhost:5173` (ou porta definida pelo Vite).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+## Tecnologias utilizadas
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- Node.js
 
-## What technologies are used for this project?
 
-This project is built with:
+## Deploy
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+O deploy pode ser feito facilmente em plataformas como Vercel, Netlify ou GitHub Pages. Recomendo o Vercel para projetos React + Vite.
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Contato
 
-## Can I connect a custom domain to my Lovable project?
+- LinkedIn: https://www.linkedin.com/in/kathiarochasa/
+- E-mail: kathia.karine2015@gmail.com
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Este projeto é open-source e está sob a licença MIT.
